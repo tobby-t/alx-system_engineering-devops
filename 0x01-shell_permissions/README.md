@@ -9,3 +9,4 @@ A script that adds execution permission to the owner, the group owner and the ot
 A script that sets the permission to the file hello.
 A script that sets the mode of the file hello to this: -rwxr-x-wx.`
 A script that sets the mode of the file hello the same as olleh’s mode.
+A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. 
